@@ -1,3 +1,18 @@
+# Double tap bug 
+
+## Steps to reproduce  
+ - on iPhone iOS11.*, iOS12.*  
+ - install the PWA app to homescreen [add pwa to homescreen](https://superpwa.com/doc/test-pwa-ios-devices/)  
+ - open the app from home - standalone mode  
+ - tap the input to open the keyboard  
+ - close keyboard  
+ - double tap on any free space  
+
+### Behaviour: white panel arives from bottom of the display (probably the 'space' for keyboard)  
+### Expected behaviour: zoom or nothing depending on meta tags.  
+
+Repository is deployed on [firebase](https://pwa-double-tap-bug-ng.firebaseapp.com)
+
 # DoubleTapBugNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
