@@ -8,7 +8,7 @@
  - close keyboard  
  - double tap on any free space  
 
-### Behaviour: white panel arives from bottom of the display (probably the 'space' for keyboard)  
+### Behaviour: white panel arrives from bottom of the display (probably the 'space' for keyboard)  
 ### Expected behaviour: zoom or nothing depending on meta tags.  
 
 Repository is deployed on [firebase](https://pwa-double-tap-bug-ng.firebaseapp.com)
